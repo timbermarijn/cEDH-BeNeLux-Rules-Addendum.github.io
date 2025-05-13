@@ -9,7 +9,7 @@ permalink: multiplayer-addendum-ipg
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-**DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.**
+**DISCLAIMER: This is an unofficial rules document written by an independent community. This is not official Wizards of the Coast documentation.**
 
 ---
 
@@ -27,7 +27,7 @@ See the **Multiplayer Addendum to the Tournament Rules** for further definitions
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version [here](https://juizes-mtg-portugal.github.io/).
+This document is updated periodically. Please obtain the most current version [here](https://timbermarijn.github.io/).
 
 # 1. General Philosophy
 
@@ -437,7 +437,7 @@ they may swap the card for a card with the morph ability in hand.
 
 **Policy Additions**
 
-**2.3A Additional Remedy** In Multiplayer Tournaments, the **decision on what cards** must be returned is made by a **majority vote** of opponents. If no majority decision is reached, the final decision will be made by a randomly chosen opponent.
+**2.3A Additional Remedy** In Multiplayer Tournaments, the opponent furthest in turn order from the active player who is not the infracting player is the opponent as described in the 1v1 IPG. The erroneous set is revealed only to them, and they make any choices required for the remedy. The player making the decisions may not discuss choices with the other players involved.
 
 **2.3A. Note** In Multiplayer Tournaments, Judges and Players must be on the lookout for situations where the Player that committed the infraction is benefiting from the opponent's decision, which in some corner cases can be a sign of collusion and / or cheating. Keep in mind that given the nuances of multiplayer, sometimes opponents will legitimately choose an option that benefits the Player that committed the infraction.
 
@@ -894,22 +894,6 @@ A backup may be considered to the point of the action, not the erroneous communi
 
 **Policy Additions**
 
-**3.7A. Definition**
-
-In a Multiplayer Tournament, physically revealing hidden information is allowed in certain conditions (see [MAMTR 3.13 Hidden Information](https://juizes-mtg-portugal.github.io/multiplayer-addendum-mtr#313-hidden-information)). Secretly exchanging hidden information with an Opponent is a Communication Policy Violation (see [MAMTR 4.1 - Player Communication](https://juizes-mtg-portugal.github.io/multiplayer-addendum-mtr#41-player-communication)).
-
-**3.7B. Examples**
-
-Anton is about to win a match between them, Bart, Cicero and Danika. While Bart has priority, and before they make a decision, Cicero shows them a card from their hand. This is a Communication Policy Violation.
-
-**3.7C. Philosophy**
-
-In Multiplayer Tournaments, Communication Policy Violation Warnings exist as a deterrence for Collusion, and because it's admissible that some Players are unaware of the Policy. In addition to the Warning we also have an additional remedy to mitigate any potential advantage gained.
-
-**3.7D. Additional Remedy**
-
-In the case where hidden information could be legally revealed and instead is shown only to a subset of players, that information must be revealed to all players. If it's not possible to determine the exact piece of information shown (i.e.: the actual card face) because its part of a larger hidden set, the entire set is revealed.
-
 # 4. Unsporting Conduct
 
 ## 4.1. Unsporting Conduct — Minor
@@ -1102,3 +1086,5 @@ _Initially Created by Bryan Spellman and Landon Liberator_
 _Initial Consultation and editing by Savannah Beard, Nicholas Hammond, Fábio Batista, Erin Leonard, Mark Mason, Graydon Beadle, Tyler Bloom, Fatty Springer, Maria Howerton-Sweid, Ethan Smilg, and Seth Arar._
 
 _Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed)_
+
+_BeNeLux Alterations by Timber Kraij, [Timber Kraij](https://github.com/timbermarijn)_

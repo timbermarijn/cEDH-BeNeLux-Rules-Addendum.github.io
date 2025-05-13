@@ -9,7 +9,7 @@ permalink: multiplayer-addendum-mtr
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-**DISCLAIMER: This is an unofficial rules document written by independent judges. This is not official Wizards of the Coast documentation.**
+**DISCLAIMER: This is an unofficial rules document written by an independent community. This is not official Wizards of the Coast documentation.**
 
 ---
 
@@ -25,7 +25,7 @@ Each section within this document mirrors its namesake in the Magic Tournament R
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, Tournament participants must refer to the English version to settle disputes concerning interpretations.
 
-This document is updated periodically. Please obtain the most current version [here](https://juizes-mtg-portugal.github.io/).
+This document is updated periodically. Please obtain the most current version [here](https://timbermarijn.github.io/).
 
 # 1. Tournament Fundamentals
 
@@ -181,7 +181,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**1.12A.** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head Tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://juizes-mtg-portugal.github.io/](https://juizes-mtg-portugal.github.io/)
+**1.12A.** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head Tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://timbermarijn.github.io/](https://timbermarijn.github.io/)
 
 # 2. Tournament Mechanics
 
@@ -202,7 +202,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**2.1A.** In Multiplayer Tournaments, the usual number of Games required to win a Match is one. If a Game ends in a Draw, a new Game is started including every Player in the Pod.
+**2.1A.** In Multiplayer Tournaments, the usual number of Games required to win a Match is one. In the event the game would naturally result in a draw the match is considered to have ended in a draw.
 
 The winner of a Match is the Player that won the required number of Games, or the Player that has won the most Games.
 
@@ -225,7 +225,7 @@ In the case of a tie, the Match is a Draw between the Players that participated 
 
 **Policy Additions**
 
-**2.2A** In Multiplayer Tournaments, both the seating order and first Player are defined with a random method. There is no “winner of a random-method” as in Head-to-Head Tournaments and therefore no choice to be made in swiss Rounds. In single elimination, the Player with the highest standing from the swiss portion of the Tournament will go first, followed by the Player with the next highest, until all player’s order is decided.
+**2.2A** In Multiplayer Tournaments, Players are seated in a predetermined order established by pairing software with Seat One as the starting player. In single elimination, the Player with the highest standing from the swiss portion of the Tournament will go first, followed by the Player with the next highest, until all player’s order is decided.
 
 **2.2B** For Multiplayer Tournaments where the number of Game wins required to win a Match is  greater than one, the seating order remains the same across all Games, but the starting Player is decided using a random method for each Game after the first.
 
@@ -269,7 +269,9 @@ In the case of a tie, the Match is a Draw between the Players that participated 
 
 **Policy Additions**
 
-**2.3A.** Some Multiplayer Tournaments and Formats might introduce changes to the sequence of pregame procedures. Refer to the mode or format specific rules in the Comprehensive Rules.
+**2.3A.** Some multiplayer tournaments or formats may modify the order of pre-game procedures. Always refer to the format-specific rules in the Comprehensive Rules for details.
+
+In this case, commanders must be revealed before players shuffle and present their decks. A game should not begin until all players are present, or until 10 minutes have passed since the start of the round.
 
 ## 2.4. End of Match Procedure
 
@@ -340,9 +342,9 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5C** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
-2.5D In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery.
+**2.5D** In Multiplayer Tournaments, it is encouraged for Players that wish to concede a Game, to do so at any time they could play a sorcery. A player attempting to concede but reversing their descision immediatly afterwards is treated as Tournament Error - Communication Policy Violation
 
-2.5E In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
+**2.5E** In Multiplayer Tournaments, Players may not concede in order to directly affect the Game being played after they leave, or in order to affect the Tournament outcome for themselves or their Opponents. The Head Judge will evaluate the if it can be considered Collusion or Spite Play (see [section 5.4. Unsporting Conduct](#54-unsporting-conduct)). Knowingly breaking this rule to gain an advantage is Unsporting Conduct - Cheating.
 
 # 3. Tournament Rules
 
@@ -384,6 +386,25 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 3. Opponents’ Average Match points
 4. Opponents’ Match Win percentage
 
+## 3.13 Hidden Information
+
+<details markdown="0">
+  <summary><strong>Original policy</strong></summary>
+  <blockquote>
+    <p>
+    Hidden information refers to the faces of cards and other objects at which the rules of the game and format do not allow you to look.
+   </p>
+   <p>
+   Throughout the match, a draft, and pregame procedures, players are responsible for keeping their cards above the level of the playing surface and for making reasonable efforts to prevent hidden information from being revealed. However, players may choose to share the contents of their hands, or any other hidden information available to them, to any other players unless specifically prohibited by the rules. Players must not actively attempt to gain information hidden from them but are not required to inform opponents who are accidentally revealing hidden information.
+ </p>
+  </blockquote>
+</details>
+<p></p>
+
+**Policy Additions**
+
+**3.13A.** Clarification on Hidden Information. Hidden information is a resource to be shared at the controlling player's own discretion and may be shown to as many players as they choose. If a player is shown the face or faces of cards in a hidden zone, they may not display those cards to anyone at the table who does not have permission to see them. Players are, however, free to communicate this type of information both verbally or through written notes.
+
 ## 3.17 Supplementary Decks
 
 **Policy Additions** This section was removed in May 13th 2024, and we are bringing it back since some Multiplayer Formats, such as Commander, might make use of Supplementary Decks.
@@ -396,13 +417,13 @@ A Player playing a supplementary deck must register the cards if decklists are b
 
 ## 3.18 Stickers
 
-**Policy Additions** This section was removed in May 13th 2024, and we are bringing it back since some Multiplayer Formats, such as Commander, might make use of Stickers.
+**Policy Additions** This section was removed in May 13th 2024, and we are bringing back (a modified version) since some Multiplayer Formats, such as Commander, might make use of Stickers.
 
 Stickers modify cards; they are found on a set of sticker sheets and persist on the cards as they move between public zones. Stickers do not need to be attached directly to cards; they can be attached to card sleeves or associated in any way that makes the function of the sticker clear.
 
 Sticker sheets are identified in deck registration using a combination of the three name stickers on the sheet. Players present their registered sheets of stickers alongside their deck during the pregame procedure and, if necessary, determine the three sheets to be used for that Game at that time.
 
-If a Player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
+If a Player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may either use an opponent's sticker deck to roll for the effect (if the player agrees), use the [cheat-sheet](https://i.imgur.com/F55fVAl.jpg) or visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
 
 Official sticker sheets are not required, provided that the Player makes it clear what sheets they are using, which stickers are on those sheets, and represents the stickers in-Game with a method that is clear to both Players. Only the official 48 sticker sheet combinations may be used; Players cannot mix and Match to generate their own sheets.
 
@@ -524,7 +545,7 @@ All stickers are returned to their respective sheets between Games.
 
 **Policy Additions**
 
-Status information consists of:
+**4.1A.** Status information consists of:
 
 * ... _(existing items)_
 * Amount of damage a Player received from a Commander.
@@ -533,6 +554,8 @@ Free information consists of:
 
 * ... _(existing items)_
 * The number of times a Commander has been cast from the command zone.
+
+**4.1B** The active player may request the table to stop excessively influencing game actions to progress play. Failure to do so may result in an Unsporting Conduct - Minor penalty.
 
 ## 4.2. Tournament Shortcuts
 
@@ -701,19 +724,20 @@ This process follows the same rules specified in MAMTR 4.2A.
 
 **Policy Additions**
 
-**4.8A** In Multiplayer Tournaments, any Opponent providing relevant strategic information, after a decision has been made, is never seen as a teammate intervening.
-For the purpose of reversing decisions, any relevant information provided by Opponents of the Player wishing to reverse a decision, must be taken into account and if relevant strategic information is found to have been gained, the reversal should not be allowed.
+**4.8A** Because CEDH is a social game, players can influence others. In order to allow for fast and natural play, players may do so after an action has been taken in order to convince that action’s controller to change their mind. This will naturally result in that player gaining new information, but if that information was shared in service of the decision being reversed, a judge may allow that player to do so. The judge must be sure the information was given in order to change the current play.
 
 **Philosophy**:
 
-This rule aims to clarify situations where temporary in-game alliances or deals may occur due to the nature of a Free-for-all game. The main point is to avoid a situation where Players will always have their decisions second-guessed by their opponents in most cases trying to be influenced for their benefit, very much as if they had an infinite stock of free _"change the target of target spell"_ effects. This way, the responsibility of a decision is focused on the decision maker, and players are still able to discuss **before a decision is made** what is the best course of action.
+cEDH remains a fundamentally social format, even at the highest levels of play. Table politics, negotiation, and persuasion are integral to the multiplayer experience. In this environment, it's natural for players to attempt to influence each other's decisions, even after an action has technically been taken.
+
+This rule recognizes that such interactions are a core part of cEDH and aims to support dynamic, organic gameplay without sacrificing competitive integrity. Allowing a player to reconsider a decision when new information was clearly shared with the intent of influencing that decision helps preserve the social depth of the format while minimizing disruption.
 
 **Examples**:
 
-- _In a stack war interaction, where Alice is trying to resolve Underworld Breach, Brian responded with Fierce Guardianship, Alice responded with Pact of Negation and Brian responded with Deflecting Swat. When Deflecting Swat resolves, Brian says "Change pact to swat". Cicero immediately yells: "No! you should have targetted breach!". Brian should **not** be allowed to take back his decision._
-- _Alice is trying to find a solution to Brian's win attempt and resolves Demonic Consultation, naming Fierce Guardianship. At this point, Carlos reminds Alice that she should get Mindbreak Trap instead. Alice should **not** be allowed to take back her decision._
+- _In a stack war interaction, where Alice is trying to resolve Underworld Breach, Brian responded with Fierce Guardianship, Alice responded with Pact of Negation and Brian responded with Deflecting Swat. When Deflecting Swat resolves, Brian says "Change pact to swat". Cicero immediately yells: "No! you should have targetted breach!". Brian **should** be allowed to take back his decision._
+- _Alice is trying to find a solution to Brian's win attempt and resolves Demonic Consultation, naming Fierce Guardianship. At this point, Carlos reminds Alice that she should get Mindbreak Trap instead. Alice **should** be allowed to take back her decision._
 - _Alice sacrifices her Scalding Tarn saying: "I'm going to crack the fetch for Volcanic Island." immediately followed by: "Oh no wait, there is an Opposition Agent in play! Sorry!", without any opponent's intervention. Alice **could be allowed** to take back her decision._
-- _At the end of Alice's turn, Bruno casts a Vampiric Tutor, and Alice immediately says: "Wait, Carlos has an Opposition Agent in play!". Bruno says: "Oh! No, I changed my mind!". Bruno should **not** be allowed to take back his decision._
+- _At the end of Alice's turn, Bruno casts a Vampiric Tutor, and Alice immediately says: "Wait, Carlos has an Opposition Agent in play!". Bruno says: "Oh! No, I changed my mind!". Bruno **should** be allowed to take back his decision._
   
 # 5. Tournament Violations
 
@@ -1156,7 +1180,7 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 80 minutes + no extra turns time limit
+* For Swiss Rounds - 80 minutes + no extra turns + last turn time limit
 * For Single Elimination Matches - no time limit (_with exceptions_)
 
 It is recommended to apply a hard **30 minute last turn time limit** in order to handle a very long last turn after the regular Round time is over, in order to prevent severe delays to the event.
@@ -1570,10 +1594,9 @@ For Multiplayer Tournaments, in a configuration of four (4) Players per Pod, it 
 
 | Players | Swiss Rounds                                                     | Playoff |
 | ------- | ---------------------------------------------------------------- | ------- |
-| 4-5     | None (Run 1 Single elimination Round)                            | None    |
-| 6-16    | 2                                                                | Top 4   |
-| 17-24   | 3                                                                | Top 7   |
-| 25-32   | 4                                                                | Top 10  |
+| 4       | None (Run 1 Single elimination Round)                            | None    |
+| 5-22    | 2                                                                | Top 4   |
+| 23-32   | 4                                                                | Top 10  |
 | 33-40   | 5                                                                | Top 13  |
 | 41-64   | 5                                                                | Top 16  |
 | 65-128  | 6                                                                | Top 16  |
@@ -1593,3 +1616,5 @@ _Initial document Created by Erin Leonard, [Fábio Batista](https://github.com/f
 _Initial Consultation and editing by [Landon Liberator](https://github.com/Libby-Monarch), Bryan Spellman, Savannah Beard, [Nicholas Hammond](https://github.com/NicholasRHammond), Erin Leonard, Mark Mason, [Tyler Bloom](https://github.com/TylerBloom), and Ethan Smilg_
 
 _Subsequent Contributions by the community via the [github repository](https://github.com/Juizes-MTG-Portugal/Juizes-MTG-Portugal.github.io/issues?q=is%3Aissue+is%3Aclosed)_
+
+_BeNeLux Alterations by Timber Kraij, [Timber Kraij](https://github.com/timbermarijn)_
