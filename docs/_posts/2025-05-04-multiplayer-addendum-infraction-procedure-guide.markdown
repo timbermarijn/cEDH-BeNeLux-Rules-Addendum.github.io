@@ -9,7 +9,7 @@ permalink: multiplayer-addendum-ipg
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-**DISCLAIMER: This is an unofficial rules document written by an independent community. This is not official Wizards of the Coast documentation.**
+**DISCLAIMER: This rules document written by an independent community and is intended to be used as a modifcation to existing official Wizards of the Coast documentation.**
 
 ---
 
@@ -19,11 +19,15 @@ The Multiplayer Addendum to the Infraction Procedure Guide exists to assist Judg
 
 This document is an extension of the Infraction Procedure Guide, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Infraction Procedure Guide, they can turn to the Multiplayer Addendum to the Infraction Procedure Guide to find details on how to proceed in Multiplayer Tournaments.
 
+**Sidenote**
+
+This version of this document was created to unify the minor and major differences in tournament rules across the region. These differences stem from different events making use of a different set of addendums. (with the most common ones being those from [Topdeck.gg](https://topdeck.gg/mtr-ipg-addendum) and [the cEDH European championship](https://juizes-mtg-portugal.github.io/))
+
 ## Framework
 
 Each section within this document mirrors its namesake in the Infraction Procedure Guide. Within each section, **Policy Additions** can be found. **Policy Additions** are policies outlined as best practice for handling infractions, penalties, and fixes.
 
-See the **Multiplayer Addendum to the Tournament Rules** for further definitions of terms in this document. 
+See the **[Multiplayer Addendum to the Tournament Rules](https://timbermarijn.github.io/multiplayer-addendum-ipg)** for further definitions of terms in this document. 
 
 At the time of original publishing, this document has been published solely in English. If such a time exists that this document be printed, translated, or otherwise ported to another language, tournament participants must refer to the English version to settle disputes concerning interpretations.
 

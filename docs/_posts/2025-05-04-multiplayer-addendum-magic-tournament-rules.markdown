@@ -9,7 +9,7 @@ permalink: multiplayer-addendum-mtr
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-**DISCLAIMER: This is an unofficial rules document written by an independent community. This is not official Wizards of the Coast documentation.**
+**DISCLAIMER: This rules document written by an independent community and is intended to be used as a modifcation to existing official Wizards of the Coast documentation.**
 
 ---
 
@@ -18,6 +18,10 @@ permalink: multiplayer-addendum-mtr
 The Multiplayer Addendum to the Magic Tournament Rules exists to assist Judges who are working at any Rules Enforcement Level in Multiplayer Game Mode Tournaments. This document is written as a supplement to the Magic Tournament Rules and should be used in close conjunction with it. 
 
 This document is an extension of the Magic Tournament Rules, and therefore a person using the Multiplayer Addendum should first be familiar with that document. Once a person has reviewed the relevant sections of the Magic Tournament Rules, they can turn to the Multiplayer Addendum to the Magic Tournament Rules to find details on how to proceed in Multiplayer Tournaments.
+
+**Sidenote**
+
+This version of this document was created to unify the minor and major differences in tournament rules across the region. These differences stem from different events making use of a different set of addendums. (with the most common ones being those from [Topdeck.gg](https://topdeck.gg/mtr-ipg-addendum) and [the cEDH European championship](https://juizes-mtg-portugal.github.io/))
 
 ## Framework
 
@@ -181,7 +185,7 @@ _Example: Alice, Bob, Charles and Dani are playing a Best-of-One Multiplayer Mat
 
 **Policy Additions**
 
-**1.12A.** For Multiplayer Tournaments, there are differences on how to handle infractions when compared to Head-to-Head Tournaments. Those differences are covered by the Multiplayer Addendum to the Infraction Procedure Guide, located at [https://timbermarijn.github.io/](https://timbermarijn.github.io/)
+**1.12A.** In multiplayer tournaments, infractions are handled differently than in one-on-one formats. These differences are outlined in the Multiplayer Addendum to the Infraction Procedure Guide, available [here](https://timbermarijn.github.io/multiplayer-addendum-ipg)
 
 # 2. Tournament Mechanics
 
@@ -306,15 +310,9 @@ In this case, commanders must be revealed before players shuffle and present the
 
 _Example: Alice, Bob, Charlie, and Daniel are playing in a Multiplayer Match. Alice is the active Player when time in the Round was called. Alice finishes playing her turn._
 
-**2.4B.** In Multiplayer Tournaments, even without the extra turns, it is possible that the last turn takes up too much time if Players are debating strategic decisions as a group.
+**2.4B.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
 
-In order to enforce a fast pace during the last turn, a **last turn time limit** is applied. If the **last turn time limit** is reached before a winner is determined, the Match immediately ends with the current Game as a Draw.
-
-_Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. Time in the Round has been called. Cam is the active Player when the last turn time limit is reached. Since no winner has been declared, the Match with the current Game as a Draw._
-
-**2.4C.** In Multiplayer Tournaments, in the case a Single Elimination Match results in a Draw, the Player with the highest Standing from the Swiss Portion of the event should be considered the Winner.
-
-**2.4D.** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
+**2.4C.** Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended time limits in Multiplayer Tournaments.
 
 ## 2.5. Conceding or Intentionally Drawing Games or Matches
 
@@ -338,7 +336,9 @@ _Example: Arnold, Benjamin, Cam, and Durbin are playing in a Multiplayer Match. 
 
 **2.5A.** In Multiplayer Tournaments, the decision to **Intentionally Draw a Game** must be unanimous among the **Players that are still playing the Game**. This means that **Players that lost the current Game don't have a say in this decision**.
 
-**2.5B** In Multiplayer Tournaments, the decision to **Intentionally Draw a Match** must be unanimous among the **Players that are still playing the Match**. This means that **Players that lost the current Game** in the current Match, still **have a say in this decision**. In the situation where a Player left the play area and a new Game is about to start, that Player will be subject to potential tardiness penalties.
+**2.5B** In multiplayer tournaments, the decision to **Intentionally Draw a Game** must be unanimous among the **players still active in the current game**. That means **Players who have lost the current game** are no longer considered part of the match and **do not have a say in this decision**.
+
+If a player has left the play area and a new game is about to begin, they may be subject to tardiness penalties.
 
 **2.5C** In Multiplayer Tournaments, when **Intentionally Drawing a Game** during a **Single Elimination** or otherwise untimed Round, there may be some restrictions in place to prevent the repetition of this process from extending the Tournament indefinitely. Check [Appendix B - Time Limits](#appendix-b--time-limits) for the recommended restrictions.
 
@@ -423,7 +423,7 @@ Stickers modify cards; they are found on a set of sticker sheets and persist on 
 
 Sticker sheets are identified in deck registration using a combination of the three name stickers on the sheet. Players present their registered sheets of stickers alongside their deck during the pregame procedure and, if necessary, determine the three sheets to be used for that Game at that time.
 
-If a Player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may either use an opponent's sticker deck to roll for the effect (if the player agrees), use the [cheat-sheet](https://i.imgur.com/F55fVAl.jpg) or visit https://magic.wizards.com/en/unresources to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
+If a Player has not registered a set of sticker sheets but is instructed to put a sticker onto a permanent they own due to an effect they have gained control of, they may either use an opponent's sticker deck to roll for the effect (if the player agrees), use the [cheat-sheet](https://i.imgur.com/F55fVAl.jpg) or visit [the Wizards Un-Resource Page](https://magic.wizards.com/en/unresources) to generate three sticker sheets for use in that Game only. If they do not choose to do so, the part of the ability instructing them to put a sticker onto a permanent is ignored.
 
 Official sticker sheets are not required, provided that the Player makes it clear what sheets they are using, which stickers are on those sheets, and represents the stickers in-Game with a method that is clear to both Players. Only the official 48 sticker sheet combinations may be used; Players cannot mix and Match to generate their own sheets.
 
@@ -1180,11 +1180,9 @@ In the semi finals, the seeds of the winners from the quarterfinals are taken in
 
 The following time limits are recommended for each Round of a Multiplayer Tournament:
 
-* For Swiss Rounds - 80 minutes + no extra turns + last turn time limit
+* For Swiss Rounds - 80 minutes + no extra turns
 * For Single Elimination Matches - no time limit (_with exceptions_)
 
-It is recommended to apply a hard **30 minute last turn time limit** in order to handle a very long last turn after the regular Round time is over, in order to prevent severe delays to the event.
-  
 In the situation where Players **Intentionally Draw a Game in a Single Elimination Match**, it is recommended to apply the following restrictions:
   
 * A 150 minutes timer that starts counting since the beginning of the Round comes into effect after the first Intentional Draw.
